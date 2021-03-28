@@ -177,8 +177,8 @@ footer p {
   }
   .profile-badge a{
     z-index: 2;
-    padding: 12px 54px;
+    padding: 12px 34px;
     text-align: center;
-    width: 40px;
+    width: 55px;
   }
 }
