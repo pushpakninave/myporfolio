@@ -152,10 +152,10 @@ footer p {
 }
 .profile-badge a{
   z-index: 2;
-  padding: 12px 44px;
+  padding: 12px 54px;
   display: inline-block;
   text-align: center;
-  width: 500px;
+  width: 200px;
 }
 
 
